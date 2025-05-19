@@ -1,7 +1,7 @@
 
 ### Native Horizontal Grid Type Property Options
 
-<details>
+<details id='ld-key'>
 <summary style='color:steelblue!important;'>Learn more </summary>
 
 - `regular_latitude_longitude`: A rectilinear latitude-longitude grid with evenly spaced latitude points and evenly spaced longitude points.
