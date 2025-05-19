@@ -2,7 +2,7 @@
 ### Native Horizontal Grid Type Property Options
 
 <details>
-<summary><a href="#" style='color:steelblue!important;'>Learn more</a> </summary>
+<summary style='color:steelblue!important;'>Learn more </summary>
 
 - `regular_latitude_longitude`: A rectilinear latitude-longitude grid with evenly spaced latitude points and evenly spaced longitude points.
 - `regular_gaussian`: A Gaussian grid for which the number of longitudinal points is constant for each latitude.
